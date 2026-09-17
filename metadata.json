@@ -1,0 +1,6 @@
+{
+  "name": "AdGuard DNS Setup",
+  "description": "Configure AdGuard DNS to block intrusive ads on anime streaming sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
